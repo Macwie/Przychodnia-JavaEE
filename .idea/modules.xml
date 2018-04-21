@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Przychodnia.iml" filepath="$PROJECT_DIR$/Przychodnia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Przychodnia-app/Przychodnia-app.iml" filepath="$PROJECT_DIR$/Przychodnia-app/Przychodnia-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Przychodnia-ear/Przychodnia-ear.iml" filepath="$PROJECT_DIR$/Przychodnia-ear/Przychodnia-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Przychodnia-ejb/Przychodnia-ejb.iml" filepath="$PROJECT_DIR$/Przychodnia-ejb/Przychodnia-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Przychodnia-service/Przychodnia-service.iml" filepath="$PROJECT_DIR$/Przychodnia-service/Przychodnia-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Przychodnia-app/src/main/main.iml" filepath="$PROJECT_DIR$/Przychodnia-app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Przychodnia-ejb/src/main/main1.iml" filepath="$PROJECT_DIR$/Przychodnia-ejb/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Przychodnia-service/src/main/main2.iml" filepath="$PROJECT_DIR$/Przychodnia-service/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Przychodnia-app/src/test/test.iml" filepath="$PROJECT_DIR$/Przychodnia-app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+client\ejb\AdmissionBeanRemote.class
+client\model\Visit.class
+client\model\Admission.class
+client\ejb\SystemUserBeanRemote.class
+client\ejb\DoctorBeanRemote.class
+client\ejb\VisitBeanRemote.class
+client\model\SystemUser.class
+client\model\Patient.class
+client\ejb\PatientBeanRemote.class
+client\model\Doctor.class

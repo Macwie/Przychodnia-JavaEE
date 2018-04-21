@@ -1,0 +1,159 @@
+14:25:44.232 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+14:25:44.248 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - Looking for jboss-naming-client.properties using classloader sun.misc.Launcher$AppClassLoader@4e25154f
+14:25:44.249 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.endpoint.create.options. has the following options {}
+14:25:44.250 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.THREAD_DAEMON=>true} to form {org.xnio.Options.THREAD_DAEMON=>true}
+14:25:44.250 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.remote.connectionprovider.create.options. has the following options {}
+14:25:44.250 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.SSL_ENABLED=>false} to form {org.xnio.Options.SSL_ENABLED=>false}
+14:25:44.262 [main] INFO  org.xnio - XNIO version 3.4.0.Final
+14:25:44.272 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.4.0.Final
+14:25:44.383 [main] TRACE org.xnio.nio - Starting up with selector provider class sun.nio.ch.WindowsSelectorProvider
+14:25:44.384 [main] TRACE org.xnio.nio - Using Default system selector creator for provider class sun.nio.ch.WindowsSelectorProvider for main selectors and Default system selector creator for provider class sun.nio.ch.WindowsSelectorProvider for temp selectors
+14:25:44.404 [main] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@35ef1869 00000001 -> 00000002
+14:25:44.404 [main] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@35ef1869 00000002 -> 00000003
+14:25:44.405 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio - Starting worker thread Thread[Remoting "config-based-naming-client-endpoint" I/O-1,5,main]
+14:25:44.405 [Remoting "config-based-naming-client-endpoint" I/O-1] DEBUG org.xnio.nio - Started channel thread 'Remoting "config-based-naming-client-endpoint" I/O-1', selector sun.nio.ch.WindowsSelectorImpl@2a5caddb
+14:25:44.405 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio.selector - Beginning select on sun.nio.ch.WindowsSelectorImpl@2a5caddb
+14:25:44.406 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio - Starting worker thread Thread[Remoting "config-based-naming-client-endpoint" Accept,5,main]
+14:25:44.406 [Remoting "config-based-naming-client-endpoint" Accept] DEBUG org.xnio.nio - Started channel thread 'Remoting "config-based-naming-client-endpoint" Accept', selector sun.nio.ch.WindowsSelectorImpl@510a9396
+14:25:44.406 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio.selector - Beginning select on sun.nio.ch.WindowsSelectorImpl@510a9396
+14:25:44.413 [main] TRACE org.xnio.safe-close - Closing resource java.io.InputStreamReader@6e20b53a
+14:25:44.413 [main] TRACE org.xnio.safe-close - Closing resource sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@71809907
+14:25:44.413 [main] INFO  org.jboss.remoting - JBoss Remoting version 4.0.21.Final
+14:25:44.416 [main] TRACE org.jboss.remoting.endpoint - Completed open of endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:44.417 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000001 of endpoint "config-based-naming-client-endpoint" <79924b> (opened Connection provider for remote)
+14:25:44.421 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'remote': Remoting remote connection provider 222545dc for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:44.423 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000002 of endpoint "config-based-naming-client-endpoint" <79924b> (opened Connection provider for http-remoting)
+14:25:44.424 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'http-remoting': Remoting remote connection provider 223d2c72 for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:44.425 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000003 of endpoint "config-based-naming-client-endpoint" <79924b> (opened Connection provider for https-remoting)
+14:25:44.425 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'https-remoting': Remoting remote connection provider 7f3b84b8 for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:44.426 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.connect.options. has the following options {}
+14:25:44.426 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.SASL_POLICY_NOANONYMOUS=>false} to form {org.xnio.Options.SASL_POLICY_NOANONYMOUS=>false}
+14:25:44.432 [Thread-2] TRACE org.jboss.remoting.resource - Closing endpoint "config-based-naming-client-endpoint" <79924b> synchronously
+14:25:57.299 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+14:25:57.317 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - Looking for jboss-naming-client.properties using classloader sun.misc.Launcher$AppClassLoader@4e25154f
+14:25:57.318 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.endpoint.create.options. has the following options {}
+14:25:57.318 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.THREAD_DAEMON=>true} to form {org.xnio.Options.THREAD_DAEMON=>true}
+14:25:57.319 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.remote.connectionprovider.create.options. has the following options {}
+14:25:57.319 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.SSL_ENABLED=>false} to form {org.xnio.Options.SSL_ENABLED=>false}
+14:25:57.363 [main] INFO  org.xnio - XNIO version 3.4.0.Final
+14:25:57.375 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.4.0.Final
+14:25:57.471 [main] TRACE org.xnio.nio - Starting up with selector provider class sun.nio.ch.WindowsSelectorProvider
+14:25:57.472 [main] TRACE org.xnio.nio - Using Default system selector creator for provider class sun.nio.ch.WindowsSelectorProvider for main selectors and Default system selector creator for provider class sun.nio.ch.WindowsSelectorProvider for temp selectors
+14:25:57.499 [main] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@35ef1869 00000001 -> 00000002
+14:25:57.499 [main] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@35ef1869 00000002 -> 00000003
+14:25:57.500 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio - Starting worker thread Thread[Remoting "config-based-naming-client-endpoint" I/O-1,5,main]
+14:25:57.500 [Remoting "config-based-naming-client-endpoint" I/O-1] DEBUG org.xnio.nio - Started channel thread 'Remoting "config-based-naming-client-endpoint" I/O-1', selector sun.nio.ch.WindowsSelectorImpl@774fe9b8
+14:25:57.511 [main] TRACE org.xnio.safe-close - Closing resource java.io.InputStreamReader@6e20b53a
+14:25:57.511 [main] TRACE org.xnio.safe-close - Closing resource sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@71809907
+14:25:57.511 [main] INFO  org.jboss.remoting - JBoss Remoting version 4.0.21.Final
+14:25:57.516 [main] TRACE org.jboss.remoting.endpoint - Completed open of endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.516 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000001 of endpoint "config-based-naming-client-endpoint" <79924b> (opened Connection provider for remote)
+14:25:57.519 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio.selector - Beginning select on sun.nio.ch.WindowsSelectorImpl@774fe9b8
+14:25:57.520 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio - Starting worker thread Thread[Remoting "config-based-naming-client-endpoint" Accept,5,main]
+14:25:57.520 [Remoting "config-based-naming-client-endpoint" Accept] DEBUG org.xnio.nio - Started channel thread 'Remoting "config-based-naming-client-endpoint" Accept', selector sun.nio.ch.WindowsSelectorImpl@53a2e55d
+14:25:57.520 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio.selector - Beginning select on sun.nio.ch.WindowsSelectorImpl@53a2e55d
+14:25:57.524 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'remote': Remoting remote connection provider 222545dc for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.526 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000002 of endpoint "config-based-naming-client-endpoint" <79924b> (opened Connection provider for http-remoting)
+14:25:57.528 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'http-remoting': Remoting remote connection provider 223d2c72 for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.529 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000003 of endpoint "config-based-naming-client-endpoint" <79924b> (opened Connection provider for https-remoting)
+14:25:57.529 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'https-remoting': Remoting remote connection provider 7f3b84b8 for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.531 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.connect.options. has the following options {}
+14:25:57.531 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.SASL_POLICY_NOANONYMOUS=>false} to form {org.xnio.Options.SASL_POLICY_NOANONYMOUS=>false}
+14:25:57.549 [Thread-2] TRACE org.jboss.remoting.resource - Closing endpoint "config-based-naming-client-endpoint" <79924b> synchronously
+14:25:57.550 [Thread-2] TRACE org.jboss.remoting.resource - Closing Remoting remote connection provider 7f3b84b8 for endpoint "config-based-naming-client-endpoint" <79924b> asynchronously
+14:25:57.550 [Thread-2] TRACE org.jboss.remoting.resource - Completed close of Remoting remote connection provider 7f3b84b8 for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.551 [Thread-2] TRACE org.jboss.remoting.resource - Closing Registration of 'https-remoting': Remoting remote connection provider 7f3b84b8 for endpoint "config-based-naming-client-endpoint" <79924b> asynchronously
+14:25:57.551 [Thread-2] TRACE org.jboss.remoting.resource - Closing Remoting remote connection provider 7f3b84b8 for endpoint "config-based-naming-client-endpoint" <79924b> asynchronously
+14:25:57.551 [Thread-2] TRACE org.jboss.remoting.resource - Completed close of Registration of 'https-remoting': Remoting remote connection provider 7f3b84b8 for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.551 [Thread-2] TRACE org.jboss.remoting.endpoint - Phase 1 shutdown count 00000002 of endpoint "config-based-naming-client-endpoint" <79924b> (closed Remoting remote connection provider 7f3b84b8 for endpoint "config-based-naming-client-endpoint" <79924b>)
+14:25:57.552 [Thread-2] TRACE org.jboss.remoting.resource - Closing Remoting remote connection provider 222545dc for endpoint "config-based-naming-client-endpoint" <79924b> asynchronously
+14:25:57.552 [Thread-2] TRACE org.jboss.remoting.resource - Completed close of Remoting remote connection provider 222545dc for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.552 [Thread-2] TRACE org.jboss.remoting.resource - Closing Registration of 'remote': Remoting remote connection provider 222545dc for endpoint "config-based-naming-client-endpoint" <79924b> asynchronously
+14:25:57.552 [Thread-2] TRACE org.jboss.remoting.resource - Closing Remoting remote connection provider 222545dc for endpoint "config-based-naming-client-endpoint" <79924b> asynchronously
+14:25:57.552 [Thread-2] TRACE org.jboss.remoting.resource - Completed close of Registration of 'remote': Remoting remote connection provider 222545dc for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.552 [Thread-2] TRACE org.jboss.remoting.endpoint - Phase 1 shutdown count 00000001 of endpoint "config-based-naming-client-endpoint" <79924b> (closed Remoting remote connection provider 222545dc for endpoint "config-based-naming-client-endpoint" <79924b>)
+14:25:57.553 [Thread-2] TRACE org.jboss.remoting.resource - Closing Remoting remote connection provider 223d2c72 for endpoint "config-based-naming-client-endpoint" <79924b> asynchronously
+14:25:57.553 [Thread-2] TRACE org.jboss.remoting.resource - Completed close of Remoting remote connection provider 223d2c72 for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.553 [Thread-2] TRACE org.jboss.remoting.resource - Closing Registration of 'http-remoting': Remoting remote connection provider 223d2c72 for endpoint "config-based-naming-client-endpoint" <79924b> asynchronously
+14:25:57.553 [Thread-2] TRACE org.jboss.remoting.resource - Closing Remoting remote connection provider 223d2c72 for endpoint "config-based-naming-client-endpoint" <79924b> asynchronously
+14:25:57.553 [Thread-2] TRACE org.jboss.remoting.resource - Completed close of Registration of 'http-remoting': Remoting remote connection provider 223d2c72 for endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.553 [Thread-2] TRACE org.jboss.remoting.endpoint - Finished phase 1 shutdown of endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.553 [Thread-2] TRACE org.xnio.nio - Initiating shutdown of org.xnio.nio.NioXnioWorker@35ef1869
+14:25:57.554 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio.selector - Selected on sun.nio.ch.WindowsSelectorImpl@774fe9b8
+14:25:57.554 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio.selector - Selected on sun.nio.ch.WindowsSelectorImpl@53a2e55d
+14:25:57.554 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio - Shutting down channel thread "Thread[Remoting "config-based-naming-client-endpoint" Accept,5,main]"
+14:25:57.554 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio - Shutting down channel thread "Thread[Remoting "config-based-naming-client-endpoint" I/O-1,5,main]"
+14:25:57.554 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.safe-close - Closing resource sun.nio.ch.WindowsSelectorImpl@53a2e55d
+14:25:57.554 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@35ef1869 80000003 -> 80000002
+14:25:57.554 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.safe-close - Closing resource sun.nio.ch.WindowsSelectorImpl@774fe9b8
+14:25:57.554 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@35ef1869 80000002 -> 80000001
+14:25:57.555 [Thread-2] TRACE org.xnio.safe-close - Closing resource false
+14:25:57.555 [Thread-2] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@35ef1869 80000001 -> 80000000
+14:25:57.555 [Thread-2] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@35ef1869 80000000 -> c0000000 (close complete)
+14:25:57.555 [Thread-2] TRACE org.jboss.remoting.resource - Completed close of endpoint "config-based-naming-client-endpoint" <79924b>
+14:25:57.555 [Thread-2] TRACE org.jboss.remoting.resource - Closing Remoting local connection provider 511726f for endpoint "config-based-naming-client-endpoint" <79924b> asynchronously
+14:25:57.556 [Thread-2] TRACE org.jboss.remoting.resource - Completed close of Remoting local connection provider 511726f for endpoint "config-based-naming-client-endpoint" <79924b>
+10:14:06.713 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+10:14:06.744 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - Looking for jboss-naming-client.properties using classloader sun.misc.Launcher$AppClassLoader@4aa298b7
+10:14:06.746 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.endpoint.create.options. has the following options {}
+10:14:06.748 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.THREAD_DAEMON=>true} to form {org.xnio.Options.THREAD_DAEMON=>true}
+10:14:06.748 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.remote.connectionprovider.create.options. has the following options {}
+10:14:06.748 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.SSL_ENABLED=>false} to form {org.xnio.Options.SSL_ENABLED=>false}
+10:14:06.773 [main] INFO  org.xnio - XNIO version 3.4.0.Final
+10:14:06.802 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.4.0.Final
+10:14:07.206 [main] TRACE org.xnio.nio - Starting up with selector provider class sun.nio.ch.WindowsSelectorProvider
+10:14:07.208 [main] TRACE org.xnio.nio - Using Default system selector creator for provider class sun.nio.ch.WindowsSelectorProvider for main selectors and Default system selector creator for provider class sun.nio.ch.WindowsSelectorProvider for temp selectors
+10:14:07.242 [main] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@6379eb 00000001 -> 00000002
+10:14:07.243 [main] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@6379eb 00000002 -> 00000003
+10:14:07.243 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio - Starting worker thread Thread[Remoting "config-based-naming-client-endpoint" I/O-1,5,main]
+10:14:07.244 [Remoting "config-based-naming-client-endpoint" I/O-1] DEBUG org.xnio.nio - Started channel thread 'Remoting "config-based-naming-client-endpoint" I/O-1', selector sun.nio.ch.WindowsSelectorImpl@48e13c48
+10:14:07.244 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio.selector - Beginning select on sun.nio.ch.WindowsSelectorImpl@48e13c48
+10:14:07.246 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio - Starting worker thread Thread[Remoting "config-based-naming-client-endpoint" Accept,5,main]
+10:14:07.246 [Remoting "config-based-naming-client-endpoint" Accept] DEBUG org.xnio.nio - Started channel thread 'Remoting "config-based-naming-client-endpoint" Accept', selector sun.nio.ch.WindowsSelectorImpl@24563368
+10:14:07.246 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio.selector - Beginning select on sun.nio.ch.WindowsSelectorImpl@24563368
+10:14:07.264 [main] TRACE org.xnio.safe-close - Closing resource java.io.InputStreamReader@1b7cc17c
+10:14:07.264 [main] TRACE org.xnio.safe-close - Closing resource sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@59662a0b
+10:14:07.264 [main] INFO  org.jboss.remoting - JBoss Remoting version 4.0.21.Final
+10:14:07.272 [main] TRACE org.jboss.remoting.endpoint - Completed open of endpoint "config-based-naming-client-endpoint" <2a3b5b47>
+10:14:07.273 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000001 of endpoint "config-based-naming-client-endpoint" <2a3b5b47> (opened Connection provider for remote)
+10:14:07.280 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'remote': Remoting remote connection provider 4c583ecf for endpoint "config-based-naming-client-endpoint" <2a3b5b47>
+10:14:07.283 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000002 of endpoint "config-based-naming-client-endpoint" <2a3b5b47> (opened Connection provider for http-remoting)
+10:14:07.287 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'http-remoting': Remoting remote connection provider 59474f18 for endpoint "config-based-naming-client-endpoint" <2a3b5b47>
+10:14:07.287 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000003 of endpoint "config-based-naming-client-endpoint" <2a3b5b47> (opened Connection provider for https-remoting)
+10:14:07.287 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'https-remoting': Remoting remote connection provider 515c6049 for endpoint "config-based-naming-client-endpoint" <2a3b5b47>
+10:14:07.290 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.connect.options. has the following options {}
+10:14:07.290 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.SASL_POLICY_NOANONYMOUS=>false} to form {org.xnio.Options.SASL_POLICY_NOANONYMOUS=>false}
+10:14:07.304 [Thread-2] TRACE org.jboss.remoting.resource - Closing endpoint "config-based-naming-client-endpoint" <2a3b5b47> synchronously
+10:14:07.307 [Thread-2] TRACE org.jboss.remoting.resource - Closing Remoting remote connection provider 515c6049 for endpoint "config-based-naming-client-endpoint" <2a3b5b47> asynchronously
+10:14:07.308 [Thread-2] TRACE org.jboss.remoting.resource - Completed close of Remoting remote connection provider 515c6049 for endpoint "config-based-naming-client-endpoint" <2a3b5b47>
+10:14:30.481 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+10:14:30.513 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - Looking for jboss-naming-client.properties using classloader sun.misc.Launcher$AppClassLoader@4aa298b7
+10:14:30.516 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.endpoint.create.options. has the following options {}
+10:14:30.517 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.THREAD_DAEMON=>true} to form {org.xnio.Options.THREAD_DAEMON=>true}
+10:14:30.518 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.remote.connectionprovider.create.options. has the following options {}
+10:14:30.518 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.SSL_ENABLED=>false} to form {org.xnio.Options.SSL_ENABLED=>false}
+10:14:30.548 [main] INFO  org.xnio - XNIO version 3.4.0.Final
+10:14:30.571 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.4.0.Final
+10:14:30.869 [main] TRACE org.xnio.nio - Starting up with selector provider class sun.nio.ch.WindowsSelectorProvider
+10:14:30.870 [main] TRACE org.xnio.nio - Using Default system selector creator for provider class sun.nio.ch.WindowsSelectorProvider for main selectors and Default system selector creator for provider class sun.nio.ch.WindowsSelectorProvider for temp selectors
+10:14:30.895 [main] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@67d48005 00000001 -> 00000002
+10:14:30.896 [main] TRACE org.xnio.nio - CAS org.xnio.nio.NioXnioWorker@67d48005 00000002 -> 00000003
+10:14:30.896 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio - Starting worker thread Thread[Remoting "config-based-naming-client-endpoint" I/O-1,5,main]
+10:14:30.896 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio - Starting worker thread Thread[Remoting "config-based-naming-client-endpoint" Accept,5,main]
+10:14:30.896 [Remoting "config-based-naming-client-endpoint" I/O-1] DEBUG org.xnio.nio - Started channel thread 'Remoting "config-based-naming-client-endpoint" I/O-1', selector sun.nio.ch.WindowsSelectorImpl@13cd3908
+10:14:30.897 [Remoting "config-based-naming-client-endpoint" Accept] DEBUG org.xnio.nio - Started channel thread 'Remoting "config-based-naming-client-endpoint" Accept', selector sun.nio.ch.WindowsSelectorImpl@39434906
+10:14:30.897 [Remoting "config-based-naming-client-endpoint" I/O-1] TRACE org.xnio.nio.selector - Beginning select on sun.nio.ch.WindowsSelectorImpl@13cd3908
+10:14:30.897 [Remoting "config-based-naming-client-endpoint" Accept] TRACE org.xnio.nio.selector - Beginning select on sun.nio.ch.WindowsSelectorImpl@39434906
+10:14:30.911 [main] TRACE org.xnio.safe-close - Closing resource java.io.InputStreamReader@77fbd92c
+10:14:30.911 [main] TRACE org.xnio.safe-close - Closing resource sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@67c27493
+10:14:30.912 [main] INFO  org.jboss.remoting - JBoss Remoting version 4.0.21.Final
+10:14:30.918 [main] TRACE org.jboss.remoting.endpoint - Completed open of endpoint "config-based-naming-client-endpoint" <35d019a3>
+10:14:30.919 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000001 of endpoint "config-based-naming-client-endpoint" <35d019a3> (opened Connection provider for remote)
+10:14:30.926 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'remote': Remoting remote connection provider 48f2bd5b for endpoint "config-based-naming-client-endpoint" <35d019a3>
+10:14:30.928 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000002 of endpoint "config-based-naming-client-endpoint" <35d019a3> (opened Connection provider for http-remoting)
+10:14:30.931 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'http-remoting': Remoting remote connection provider 3e694b3f for endpoint "config-based-naming-client-endpoint" <35d019a3>
+10:14:30.931 [main] TRACE org.jboss.remoting.endpoint - Allocated tick to 00000003 of endpoint "config-based-naming-client-endpoint" <35d019a3> (opened Connection provider for https-remoting)
+10:14:30.931 [main] TRACE org.jboss.remoting.endpoint - Adding connection provider registration named 'https-remoting': Remoting remote connection provider 5fe94a96 for endpoint "config-based-naming-client-endpoint" <35d019a3>
+10:14:30.934 [main] DEBUG org.jboss.naming.remote.client.InitialContextFactory - jboss.naming.client.connect.options. has the following options {}
+10:14:30.934 [main] TRACE org.jboss.naming.remote.client.InitialContextFactory - Options {} have been merged with defaults {org.xnio.Options.SASL_POLICY_NOANONYMOUS=>false} to form {org.xnio.Options.SASL_POLICY_NOANONYMOUS=>false}
+10:14:30.944 [Thread-2] TRACE org.jboss.remoting.resource - Closing endpoint "config-based-naming-client-endpoint" <35d019a3> synchronously

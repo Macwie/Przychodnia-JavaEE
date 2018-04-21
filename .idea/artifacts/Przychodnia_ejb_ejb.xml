@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="Przychodnia-ejb:ejb">
+    <output-path>$PROJECT_DIR$/Przychodnia-ejb/target</output-path>
+    <root id="archive" name="Przychodnia-ejb-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="Przychodnia-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

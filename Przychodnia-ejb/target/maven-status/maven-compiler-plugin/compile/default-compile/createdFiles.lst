@@ -1,0 +1,11 @@
+client\ejb\PatientBean.class
+client\ejb\AdmissionDao.class
+client\ejb\SystemUserDao.class
+client\ejb\VisitBean.class
+client\ejb\VisitDao.class
+client\ejb\AdmissionBean.class
+client\ejb\SystemUserBean.class
+client\ejb\PatientDao.class
+client\ejb\DoctorDao.class
+client\ejb\VisitBean$1.class
+client\ejb\DoctorBean.class

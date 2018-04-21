@@ -1,0 +1,94 @@
+13:02:43.113 [main] TRACE MyLogger - Uruchomienie programu
+14:04:30.117 [main] TRACE MyLogger - Uruchomienie programu
+14:04:33.226 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+14:04:33.575 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+14:04:37.899 [AWT-EventQueue-0] TRACE MyLogger - Dodanie nowego miejsca i godzin przyjęć
+14:04:51.296 [AWT-EventQueue-0] TRACE MyLogger - Dodanie nowego miejsca i godzin przyjęć
+14:06:02.778 [main] TRACE MyLogger - Uruchomienie programu
+14:06:05.939 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+14:06:06.287 [AWT-EventQueue-0] TRACE MyLogger - Przejscie do widoku lekarza
+14:06:12.428 [AWT-EventQueue-0] TRACE MyLogger - Usuniecie wizyty (lekarz)
+14:06:26.314 [main] TRACE MyLogger - Uruchomienie programu
+14:06:31.502 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+14:06:31.842 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+14:10:55.907 [main] TRACE MyLogger - Uruchomienie programu
+14:11:01.119 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+14:11:01.484 [AWT-EventQueue-0] TRACE MyLogger - Przejscie do widoku lekarza
+14:26:04.223 [main] TRACE MyLogger - Uruchomienie programu
+14:26:07.900 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+14:26:08.271 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+10:17:52.134 [main] TRACE MyLogger - Uruchomienie programu
+10:17:58.383 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika
+10:18:03.830 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+10:18:03.906 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+10:18:08.085 [AWT-EventQueue-0] TRACE MyLogger - Dodanie nowego lekarza
+10:18:25.249 [AWT-EventQueue-0] TRACE MyLogger - Dodanie nowej wizyty
+10:18:48.101 [main] TRACE MyLogger - Uruchomienie programu
+10:18:53.472 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika (lekarz)
+10:18:55.278 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika
+10:18:59.838 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+10:18:59.895 [AWT-EventQueue-0] TRACE MyLogger - Przejscie do widoku lekarza
+10:19:05.354 [AWT-EventQueue-0] TRACE MyLogger - Usuniecie wizyty (lekarz)
+10:20:19.644 [main] TRACE MyLogger - Uruchomienie programu
+10:20:22.733 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+10:20:23.569 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+10:54:44.916 [main] TRACE MyLogger - Uruchomienie programu
+10:54:48.605 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+10:55:01.984 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika
+10:55:03.602 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+10:55:03.683 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+10:55:05.830 [AWT-EventQueue-0] TRACE MyLogger - Dodanie nowego lekarza
+10:55:20.166 [AWT-EventQueue-0] TRACE MyLogger - Dodanie nowej wizyty
+10:55:40.082 [main] TRACE MyLogger - Uruchomienie programu
+10:55:42.208 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika (lekarz)
+10:55:47.792 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika
+10:55:52.025 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+10:55:52.090 [AWT-EventQueue-0] TRACE MyLogger - Przejscie do widoku lekarza
+10:55:55.373 [AWT-EventQueue-0] TRACE MyLogger - Usuniecie wizyty (lekarz)
+10:56:52.095 [main] TRACE MyLogger - Uruchomienie programu
+10:56:54.783 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+10:56:55.707 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+11:03:33.264 [main] TRACE MyLogger - Uruchomienie programu
+11:03:36.696 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+11:03:37.586 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+19:57:42.763 [main] TRACE MyLogger - Uruchomienie programu
+19:57:50.988 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+19:57:52.050 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+19:58:06.770 [AWT-EventQueue-0] TRACE MyLogger - Dodanie nowej wizyty
+19:58:10.242 [AWT-EventQueue-0] TRACE MyLogger - Edycja danych dotyczących miejsca i godzin przyjęć
+19:58:12.867 [AWT-EventQueue-0] TRACE MyLogger - Edycja danych lekarza
+19:58:23.963 [main] TRACE MyLogger - Uruchomienie programu
+19:58:30.327 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+19:58:31.139 [AWT-EventQueue-0] TRACE MyLogger - Przejscie do widoku lekarza
+20:11:29.585 [main] TRACE MyLogger - Uruchomienie programu
+20:11:42.324 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika
+20:11:51.749 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+20:13:03.041 [main] TRACE MyLogger - Uruchomienie programu
+20:13:09.623 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+20:13:10.435 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+20:13:47.322 [main] TRACE MyLogger - Uruchomienie programu
+20:14:10.327 [main] TRACE MyLogger - Uruchomienie programu
+20:14:19.528 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika
+20:14:26.216 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+20:14:26.278 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+20:14:45.448 [main] TRACE MyLogger - Uruchomienie programu
+20:15:00.512 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika (lekarz)
+20:15:02.646 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika
+20:15:09.693 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+20:15:09.756 [AWT-EventQueue-0] TRACE MyLogger - Przejscie do widoku lekarza
+08:33:03.508 [main] TRACE MyLogger - Uruchomienie programu
+08:33:08.040 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+08:33:09.571 [AWT-EventQueue-0] TRACE MyLogger - Przejście do widoku recepcji
+08:33:17.462 [AWT-EventQueue-0] TRACE MyLogger - Dodanie nowego lekarza
+08:33:41.841 [AWT-EventQueue-0] TRACE MyLogger - Edycja danych lekarza
+08:34:12.968 [AWT-EventQueue-0] TRACE MyLogger - Edycja danych dotyczących miejsca i godzin przyjęć
+08:34:21.171 [AWT-EventQueue-0] TRACE MyLogger - Edycja danych dotyczących miejsca i godzin przyjęć
+08:34:30.890 [AWT-EventQueue-0] TRACE MyLogger - Edycja danych dotyczących miejsca i godzin przyjęć
+08:34:56.079 [AWT-EventQueue-0] TRACE MyLogger - Dodanie nowego miejsca i godzin przyjęć
+08:35:10.147 [AWT-EventQueue-0] TRACE MyLogger - Dodanie nowej wizyty
+08:35:43.661 [main] TRACE MyLogger - Uruchomienie programu
+08:35:47.427 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika (lekarz)
+08:35:59.505 [AWT-EventQueue-0] TRACE MyLogger - Rejestracja użytkownika
+08:36:04.662 [AWT-EventQueue-0] TRACE MyLogger - Logowanie użytkownika
+08:36:04.740 [AWT-EventQueue-0] TRACE MyLogger - Przejscie do widoku lekarza
+08:36:09.912 [AWT-EventQueue-0] TRACE MyLogger - Usuniecie wizyty (lekarz)
